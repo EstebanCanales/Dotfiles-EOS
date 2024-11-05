@@ -1,0 +1,114 @@
+starship
+yay -S starship
+exit
+ll
+exit
+chsh nushell
+chsh nu
+ls
+fastfetch 
+ls
+killall waybar
+waybar
+git clone https://github.com/EstebanCanales/Dotfiles
+killall waybar
+nvim
+ls
+htop
+yay -S htop cmatrix pipessh
+yay -S pipes
+yay -S pipes.sh
+pipes.sh
+cd
+cd .config/hypr/
+exit
+nvim
+cd
+nvim
+ls
+nvim
+cd .config/hypr/
+nvim
+cd ../waybar/
+nvim
+ex
+whoiam
+whoami
+k
+killall waybar
+waybar
+ls
+cd Arch-Hyprland/
+ls
+cd install-scripts/
+ls
+paru
+nvim
+ls
+cd ..
+sl
+ls
+nvim
+./install.sh
+ranger
+yay -S discord
+cd .config/hypr/
+nvim
+killall discord
+htop
+reboot
+yay -R discord
+yay -S discord
+cd .config/hypr/
+nvim
+ls
+j
+23
+ls
+cd
+mkdir
+mkdir Dotfiles
+cd Dotfiles/
+cd
+cd .ssh/
+ls
+code .
+cd Dotfiles/
+c
+echo "# DOTFILES" >> README.md
+ls
+nvim
+echo "# DOTFILES" >> README.md
+ls
+echo "# DOTFILES-EOS" >> README.md
+git init
+git add README.me
+git add README.md
+ls
+git add README.md
+git commit -m "frist commit"
+git config --global user.email "estebancomoprogramador@gmail.com"
+git config --global user.name "Esteban"
+git commit -m "frist commit"
+echo '# Dotfiles-EOS' >> README.md
+ls
+^touch README.md
+echo '# Dotfiles-EOS' >> README.md
+ls
+nvim
+git commit -m "frist commit"
+git add .
+git commit -m "frist commit"
+git branch -M main
+git remote add origin git@github.com:EstebanCanales/Dotifles-EOS.git
+git push -u origin main
+git remote
+git remote -v
+git remote -r
+git remote remove origin git@github.com:EstebanCanales/Dotifles-EOS.git
+git remote remove origin 
+git remote add origin git@github.com:EstebanCanales/Dotfiles-EOS.git
+git push -u origin main
+cd .config/
+code .
+code .
