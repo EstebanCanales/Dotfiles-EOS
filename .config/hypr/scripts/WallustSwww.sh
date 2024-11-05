@@ -1,8 +1,4 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
-# Wallust Colors for current wallpaper
-
-# Define the path to the swww cache directory
 cache_dir="$HOME/.cache/swww/"
 
 # Get a list of monitor outputs

@@ -1,8 +1,4 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
-# Searchable enabled keybinds using rofi
-
-# Kill yad to not interfere with this binds
 pkill yad || true
 
 # Define the config files
